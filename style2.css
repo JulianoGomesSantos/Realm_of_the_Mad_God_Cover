@@ -1,0 +1,7 @@
+body {
+  background-color: rgb(2, 154, 255);
+  background-image: url('2.jpg');
+  background-repeat: repeat;
+  background-position: center;
+  background-size: 1920px 1200px;
+}
